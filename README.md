@@ -24,7 +24,7 @@ A production-ready backend system with authentication, role-based access, orders
 (More projects coming soon…)
 
 How to reach me :
-      Email: niravkakadiya606@gmail.com
+      Email: kakadiyanirav3@gmail.com
 
 Current Goals :
       Improving backend development skills
