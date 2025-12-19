@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I'm Nirav Kakadiya
+Backend Developer — Python | FastAPI | SQLAlchemy
 
-<!--
-**niravkakadiya18/niravkakadiya18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building secure and scalable backend APIs with clean architecture.
+Focused on authentication systems, database design, and real-world backend applications.
 
-Here are some ideas to get you started:
+Tech Stack :
+            Python
+            FastAPI
+            SQLAlchemy (Async)
+            PostgreSQL
+            SQLite
+            JWT Authentication
+            REST APIs
+            Alembic Migrations
+            MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Projects
+E-Commerce Backend API (FastAPI)
+
+A production-ready backend system with authentication, role-based access, orders, cart, wishlist, coupons, and secure admin controls.
+👉 Repo: https://github.com/niravkakadiya18/ecommerce-backend
+
+(More projects coming soon…)
+
+How to reach me :
+      Email: niravkakadiya606@gmail.com
+
+Current Goals :
+      Improving backend development skills
+      Building production-grade API systems
+      Preparing for remote backend opportunities
+
+Currently Learning :
+      Advanced FastAPI
+      SQL optimization
+      Clean architecture & deployment
